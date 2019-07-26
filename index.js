@@ -36,4 +36,4 @@ const routeMessage = function(message, callback) {
         });
 }
 
-app.listen(3000)
+app.listen(config.port)
